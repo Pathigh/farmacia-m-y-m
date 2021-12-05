@@ -1,0 +1,18 @@
+poner un maximo de 7% de descuento en la pagina de ventas.
+
+agregar un campo proveedor en pantalla de producto. ok
+
+reporte de inventario.
+
+agregar en ventas una opcion que me diga cotizacion de agregarlo o no...
+
+
+
+
+
+
+
+
+
+
+
